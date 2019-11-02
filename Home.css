@@ -1,0 +1,108 @@
+.bar{
+    padding: 0.5em;
+    text-decoration-line: none;
+    color: gray;
+    
+
+}
+.bar:hover{
+    color: black;
+    text-decoration-line: none
+}
+.login{
+    margin-left: 1em;
+    margin-right: -3em;
+    color: #65b9FD;
+}
+.login:hover{
+    text-decoration: none;
+    color: gray;
+}
+.sign{
+    margin-left: 4em;
+    color: #65b9FD;
+}
+.sign:hover{
+    text-decoration: none;
+    color: gray;
+}
+.icon{
+    margin-right: 0.4em;
+    font-size: 4em;
+}
+.navimg{
+    
+
+}
+.heads{
+    margin-top: 5em;
+    height: 3em;
+    font-size: 2em;
+
+}
+.img{
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+  img:hover{
+      background: black;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: black;
+    opacity: 0.7;
+    
+  }
+  .overlay:hover{
+      opacity: 0.7;
+      
+  }
+  .text{
+      color: white;
+      font-size: 0.5em;
+      text-align: center;
+      padding-top: 5em;
+      padding-left: 2em;
+      padding-right: 2em;
+  }
+  .container1{
+    position: relative;
+    width: 100%;
+  }
+  .htext{
+      font-size: 0.5em;
+      color: black;
+  }
+  .htext:hover{
+      text-decoration: none;
+      color: black;
+  }
+  .writer{
+      font-size: 0.5em; 
+      color: gray;
+  }
+  .writer:hover{
+      text-decoration: none;
+      color: gray;
+  }
+  .more{
+    font-weight: bold;
+    color: #65b9FD;
+    font-size: 0.5em; 
+  }
+  .more:hover{
+      text-decoration: none;
+      color: #65b9FD;
+  }
